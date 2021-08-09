@@ -1,0 +1,4 @@
+- ![henlo](https://meritt-gifs.s3-us-west-1.amazonaws.com/reaction/clap-boyo.gif) Hi, I’m @nagasivakrishna
+- ![wassup](https://meritt-gifs.s3-us-west-1.amazonaws.com/nerd-life/pepe-hype.gif) I’m interested in Bug bounty
+- ![henlo](https://meritt-gifs.s3-us-west-1.amazonaws.com/reaction/cat-typing.gif)I do pentesting and this is me in CTFs
+- ![gameboi](https://meritt-gifs.s3-us-west-1.amazonaws.com/reaction/cool-doge.gif)And I play a lot of video games
